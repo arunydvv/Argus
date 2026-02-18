@@ -1,6 +1,3 @@
-# Argus
-
-
 # 🛡️ Argus
 
 **Argus — reliability monitoring for modern services.**
