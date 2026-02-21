@@ -11,6 +11,9 @@ Argus continuously watches your endpoints to ensure uptime, detect failures, and
 - 🚨 Failure detection & alert readiness  
 - 📊 Clear service reliability visibility  
 
+
+
+
 ## 🚀 Why Argus?
 In distributed systems, failures are inevitable. Argus helps you detect problems early and maintain reliable, resilient services.
 
